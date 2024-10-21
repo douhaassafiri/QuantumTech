@@ -76,6 +76,7 @@
                 </p><br>
                 <img src="images/darkmode.png" class="screenshot" alt="dark mode">
             </div>
+            <?php include 'phpenhancements.php'; ?>
         </div>
         <br><br><br><br>
     </main>
